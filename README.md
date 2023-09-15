@@ -2,9 +2,9 @@
 
 Bem-vindo ao Shorts Summary, uma aplicação web que utiliza JavaScript, HTML, CSS e inteligência artificial para capturar um vídeo do YouTube e transformá-lo em um texto resumido. Com o Shorts Summary, você pode economizar tempo assistindo a vídeos longos e obter um resumo conciso do conteúdo.
 
-![Captura de Tela 2023-09-15 às 06 24]([img]https://i.imgur.com/4FbayI2.png[/img])
-
-
+<p align="center">
+  <img src="https://i.imgur.com/4FbayI2.png"/>
+</p>
 ## Funcionalidades
 
 - **Captura de Vídeo**: Cole o link de um vídeo do YouTube na caixa de texto.
